@@ -9,4 +9,5 @@ Simple application for managing school subjects, teaching staff and students.
 **Login**
 
 Username: email@mail.com
+
 Password: testtest
