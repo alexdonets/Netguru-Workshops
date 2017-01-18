@@ -6,11 +6,7 @@ Simple application for managing school subjects, teaching staff and students.
 ![alt text](https://travis-ci.org/alexdonets/Netguru-Workshops.svg?branch=master "passing")
 
 ***
+**Login**
 
-<dl>
-  <dt>Login</dt>
-
-  
-  <dd>Username: email@mail.com</dd>
-  <dd>Password: testtest</dd>
-</dl>
+Username: email@mail.com
+Password: testtest
