@@ -1,4 +1,3 @@
  test:
    adapter: postgresql
-   username: workshops
    database: workshops_test
