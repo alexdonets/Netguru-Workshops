@@ -1,6 +1,6 @@
-#H1 **Workshops test application for Netguru**
+# **Workshops test application for Netguru**
 
-#H2 Simple application for managing school subjects, teaching staff and students.
+## Simple application for managing school subjects, teaching staff and students.
 ![alt text](https://travis-ci.org/alexdonets/Netguru-Workshops.svg?branch=master "passing")
 
 ***
