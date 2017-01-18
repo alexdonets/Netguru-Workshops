@@ -1,6 +1,6 @@
 rvm:
-#  - 2.2.3
-  - 1.27.0
+  - 2.2.3
+
 before_script:
   - cp config/database.yml.travis config/database.yml
   - psql -U postgres -c "create extension postgis"
